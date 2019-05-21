@@ -1,0 +1,17 @@
+/*
+
+In _mixins.scss, create some mixin functions…
+
+@mixin borderRadius($radius) - create border radius rules based on $radius
+
+@mixin flex() - take in params that would output a proper set of flex rules (row/column, spacing, etc)
+
+@mixin center() - make it easy on yourself to center things vertically and/or horizontally.
+
+Make some border mixins (with good names) that you can call to apply various box shadow effects
+
+This file will (and should) grow with you over time as you find opportunities to create re-usable functionality.
+
+Generally, a proper use of mixins in sass is to provide a full set of css rules, including browser prefixes.
+
+*/
