@@ -13,3 +13,8 @@ Use $space to declare the gutter/margin between major elements
 Use a variation of $rootColor and $accentColor to colorize the header and footer elements and their text
 
 */
+
+$rootColor: #FFC0CB;
+$accentColor: #FFC0CB88;
+$bleed: gutter();
+$space: 10px;
